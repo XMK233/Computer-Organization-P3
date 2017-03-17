@@ -1,0 +1,1 @@
+logisim的图在mips-lite-noprobe.circ里，成品是main和CPU0，这两个可以完成功能，前者有EXT模块和DM，后者没有。其他都是其组成部件。由于刚开始的时候没有经验，所以加法器和减法器不再mips-lite-noprobe.circ里而是在外部。
